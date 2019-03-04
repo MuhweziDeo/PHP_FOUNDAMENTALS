@@ -26,3 +26,11 @@ function defaultParams($authorName, $age=22){
     echo  $age;
 };
 defaultParams('muhwezi');
+
+//return values
+
+function getAuthor(){
+    return "Dee muhwezi";
+}
+
+echo getAuthor();
