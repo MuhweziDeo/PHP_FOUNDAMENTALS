@@ -18,3 +18,11 @@ function bookByAuthor($authorName){
 }
 
 bookByAuthor('Deee');
+// function default params
+function defaultParams($authorName, $age=22){
+    echo "\n";
+    echo $authorName;
+
+    echo  $age;
+};
+defaultParams('muhwezi');
