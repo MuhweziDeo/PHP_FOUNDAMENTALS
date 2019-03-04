@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a4c779-2f78-4ab9-8456-fc618fb72fbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boolean.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,11 +48,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/boolean.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
               <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/constants.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -70,6 +79,7 @@
         <option value="$PROJECT_DIR$/intergers.php" />
         <option value="$PROJECT_DIR$/floats.php" />
         <option value="$PROJECT_DIR$/boolean.php" />
+        <option value="$PROJECT_DIR$/constants.php" />
       </list>
     </option>
   </component>
@@ -118,8 +128,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.boolean.php">
+  <component name="RunManager" selected="PHP Script.constants.php">
     <configuration name="boolean.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/boolean.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="constants.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/constants.php">
       <method v="2" />
     </configuration>
     <configuration name="floats.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/floats.php">
@@ -136,9 +149,11 @@
       <item itemvalue="PHP Script.intergers.php" />
       <item itemvalue="PHP Script.floats.php" />
       <item itemvalue="PHP Script.boolean.php" />
+      <item itemvalue="PHP Script.constants.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.constants.php" />
         <item itemvalue="PHP Script.boolean.php" />
         <item itemvalue="PHP Script.floats.php" />
         <item itemvalue="PHP Script.intergers.php" />
@@ -156,12 +171,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551719553739</updated>
-      <workItem from="1551719554927" duration="1987000" />
+      <workItem from="1551719554927" duration="2122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1753000" />
+    <option name="totallyTimeSpent" value="1888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
@@ -228,6 +243,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
