@@ -139,19 +139,19 @@
     </option>
   </component>
   <component name="RunManager" selected="PHP Script.DetermineType.php">
-    <configuration name="DetermineType.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/DetermineType.php">
+    <configuration name="DetermineType.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/GeneralTypes/DetermineType.php">
       <method v="2" />
     </configuration>
-    <configuration name="boolean.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/boolean.php">
+    <configuration name="boolean.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/GeneralTypes/boolean.php">
       <method v="2" />
     </configuration>
-    <configuration name="constants.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/constants.php">
+    <configuration name="constants.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/GeneralTypes/constants.php">
       <method v="2" />
     </configuration>
-    <configuration name="floats.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/floats.php">
+    <configuration name="floats.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/GeneralTypes/floats.php">
       <method v="2" />
     </configuration>
-    <configuration name="intergers.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/intergers.php">
+    <configuration name="intergers.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/GeneralTypes/intergers.php">
       <method v="2" />
     </configuration>
     <list>
