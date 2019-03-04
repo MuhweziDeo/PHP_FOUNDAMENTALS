@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a4c779-2f78-4ab9-8456-fc618fb72fbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DetermineType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/createFunction.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +13,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/helloword.php">
+        <entry file="file://$PROJECT_DIR$/GeneralTypes/helloword.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
@@ -22,7 +22,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phpWeb.php">
+        <entry file="file://$PROJECT_DIR$/GeneralTypes/phpWeb.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
               <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
@@ -31,16 +31,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intergers.php">
+        <entry file="file://$PROJECT_DIR$/GeneralTypes/intergers.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/floats.php">
+        <entry file="file://$PROJECT_DIR$/GeneralTypes/floats.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
               <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
@@ -49,16 +49,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boolean.php">
+        <entry file="file://$PROJECT_DIR$/GeneralTypes/boolean.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/constants.php">
+        <entry file="file://$PROJECT_DIR$/GeneralTypes/constants.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
               <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
@@ -66,11 +66,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DetermineType.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeneralTypes/DetermineType.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="483">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Functions/createFunction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -90,6 +99,7 @@
         <option value="$PROJECT_DIR$/boolean.php" />
         <option value="$PROJECT_DIR$/constants.php" />
         <option value="$PROJECT_DIR$/DetermineType.php" />
+        <option value="$PROJECT_DIR$/Functions/createFunction.php" />
       </list>
     </option>
   </component>
@@ -115,6 +125,11 @@
               <item name="PHP_FOUNDAMENTALS" type="b2602c69:ProjectViewProjectNode" />
               <item name="PHP_FOUNDAMENTALS" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PHP_FOUNDAMENTALS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHP_FOUNDAMENTALS" type="462c0819:PsiDirectoryNode" />
+              <item name="Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -125,6 +140,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GeneralTypes" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.DetermineType.php">
+  <component name="RunManager" selected="PHP Script.createFunction.php">
     <configuration name="DetermineType.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/GeneralTypes/DetermineType.php">
       <method v="2" />
     </configuration>
@@ -148,26 +168,26 @@
     <configuration name="constants.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/GeneralTypes/constants.php">
       <method v="2" />
     </configuration>
+    <configuration name="createFunction.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Functions/createFunction.php">
+      <method v="2" />
+    </configuration>
     <configuration name="floats.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/GeneralTypes/floats.php">
       <method v="2" />
     </configuration>
-    <configuration name="intergers.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/GeneralTypes/intergers.php">
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="PHP Script.intergers.php" />
       <item itemvalue="PHP Script.floats.php" />
       <item itemvalue="PHP Script.boolean.php" />
       <item itemvalue="PHP Script.constants.php" />
       <item itemvalue="PHP Script.DetermineType.php" />
+      <item itemvalue="PHP Script.createFunction.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.createFunction.php" />
         <item itemvalue="PHP Script.DetermineType.php" />
         <item itemvalue="PHP Script.constants.php" />
         <item itemvalue="PHP Script.boolean.php" />
         <item itemvalue="PHP Script.floats.php" />
-        <item itemvalue="PHP Script.intergers.php" />
       </list>
     </recent_temporary>
   </component>
@@ -181,12 +201,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551719553739</updated>
-      <workItem from="1551719554927" duration="2575000" />
+      <workItem from="1551719554927" duration="3199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2341000" />
+    <option name="totallyTimeSpent" value="2965000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
@@ -221,52 +241,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helloword.php">
+    <entry file="file://$PROJECT_DIR$/GeneralTypes/helloword.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phpWeb.php">
+    <entry file="file://$PROJECT_DIR$/GeneralTypes/phpWeb.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intergers.php">
+    <entry file="file://$PROJECT_DIR$/GeneralTypes/intergers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/floats.php">
+    <entry file="file://$PROJECT_DIR$/GeneralTypes/floats.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boolean.php">
+    <entry file="file://$PROJECT_DIR$/GeneralTypes/boolean.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/constants.php">
+    <entry file="file://$PROJECT_DIR$/GeneralTypes/constants.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DetermineType.php">
+    <entry file="file://$PROJECT_DIR$/GeneralTypes/DetermineType.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/createFunction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
         </state>
       </provider>
     </entry>
