@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5a4c779-2f78-4ab9-8456-fc618fb72fbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/helloword.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phpWeb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intergers.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +21,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phpWeb.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
               <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/intergers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -41,6 +49,7 @@
       <list>
         <option value="$PROJECT_DIR$/helloword.php" />
         <option value="$PROJECT_DIR$/phpWeb.php" />
+        <option value="$PROJECT_DIR$/intergers.php" />
       </list>
     </option>
   </component>
@@ -86,12 +95,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.intergers.php">
+    <configuration name="intergers.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/intergers.php">
+      <method v="2" />
+    </configuration>
     <configuration name="phpWeb.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/phpWeb.php">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="PHP Script.phpWeb.php" />
+      <item itemvalue="PHP Script.intergers.php" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.intergers.php" />
         <item itemvalue="PHP Script.phpWeb.php" />
       </list>
     </recent_temporary>
@@ -106,12 +123,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551719553739</updated>
-      <workItem from="1551719554927" duration="971000" />
+      <workItem from="1551719554927" duration="1455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="737000" />
+    <option name="totallyTimeSpent" value="1221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
@@ -157,6 +174,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intergers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
